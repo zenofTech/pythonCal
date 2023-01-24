@@ -21,4 +21,11 @@ print("""
     """)
 
 
+# this variable will accept the user input
+Number = eval(input("Enter the numbers you want to calculate: "))
+
+# Here we print the result of the operation
+print("\n\t","*"*4, "The result is: ", Number ,"*"*4, "\n\t")
+# The input below is to keep the program waiting after evaluating the user input and printing the result.
+input("Press the enter key to exit... ")
 

@@ -1,6 +1,8 @@
 # pythonCal
 Python CLI program to calculate numbers and expressions.
 
+![image](https://user-images.githubusercontent.com/122920960/214988821-73cd8799-9a7c-4a64-8a63-84c3e31248b6.png)
+
 ### To use this program, first you have to install python in your system. download python from the link below.
 
 ```ruby

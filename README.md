@@ -12,7 +12,7 @@ https://python.org/
 - After the installation, you can clone this repo with the command below.
 
 ```ruby
-git clone 'https://github.com/zenoftech/pythonCal.git/
+git clone https://github.com/zenoftech/pythonCal.git/
 ```
 
 - Next command
